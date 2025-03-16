@@ -10,23 +10,3 @@ Principais funcionalidades incluem:
 
 ---
 
-## 📋 Funcionalidades
-
-### 1️⃣ Cadastro de Usuários
-Cada passageiro deve fornecer **nome** e **CPF** para a emissão do bilhete. Essas informações são essenciais para criar o perfil do usuário.
-
-### 2️⃣ Cadastro e Gerenciamento de Tarifas
-O sistema oferece três tipos de tarifas, cada uma com suas particularidades:
-
-- **Tarifa Normal**: Valor padrão da passagem.
-- **Tarifa Estudante**: Desconto de **50%** sobre a tarifa normal.
-- **Tarifa Professor**: Desconto especial para professores (**valor a ser definido**).
-
-### 3️⃣ Operações do Bilhete
-Os usuários podem realizar as seguintes operações:
-
-- **Carregar Saldo**: Adicionar crédito ao bilhete.
-- **Consultar Saldo**: Verificar o saldo disponível no bilhete.
-
-
-
