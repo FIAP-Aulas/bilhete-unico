@@ -8,8 +8,6 @@ public class Util {
 
     public void menu() {
 
-        // private Bilhete[] bilhete = new Bilhete [5]; => dando erro (?)
-
 
         String aux = "Escolha uma opção\n";
         aux += "1. Emitir bilhete\n";
